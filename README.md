@@ -23,32 +23,28 @@ Caveats:
 
 * JDK 1.7+ may be required on the target PC (TBC)
 
-== Installation
+## Installation
 
-. Download as zip.
+1. Download as zip.
 
-. Unpack anywhere.
+2. Unpack anywhere.
 
-. (Optional) Add installation directory to you path for easier running.
+3. (Optional) Add installation directory to you path for easier running.
 
-== Running
+## Running
 
 The installtion folder contains batch and shell scripts for the 4 applications included.
 They run exactly as the command lines for each application.
 
-== Upgrading
+## Upgrading
 
-. Download the up-issued gem
+1. Download the up-issued gem
 
-. Open a command window to <install-dir>/jruby
+2. Open a command window to <install-dir>/jruby
 
-. type
+3. type `gem install --force --local <gemfile>.gem`.
 
- gem install --force --local <gemfile>.gem+.
-
-
-
-== Status
+## Status
 
 Just this file so far....
 
